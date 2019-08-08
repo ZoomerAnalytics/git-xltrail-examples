@@ -6,4 +6,4 @@ Example repository for [git-xl](https://github.com/xlwings/git-xl). Git XL is a 
 
 * [git-xl](https://www.xltrail.com/git-xl)
 
-* [git-xltrail source code](https://github.com/xlwings/git-xl)
+* [git-xl source code](https://github.com/xlwings/git-xl)
